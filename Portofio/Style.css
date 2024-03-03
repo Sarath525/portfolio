@@ -1,0 +1,44 @@
+body {
+    font-family: 'aero';
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color:#333;
+    color:beige;
+    text-align: center;
+    padding: 30px ;
+}
+
+header img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit:var();
+}
+
+.hero-text {
+    margin-top: 20px;
+    font-style: italic;
+    font-size:smaller;
+}
+
+.about-me {
+    background-color: #f4f4f4;
+    padding: 0px ;
+    border-style:dashed;
+    font-size: 22px;
+    text-align:justify;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
